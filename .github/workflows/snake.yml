@@ -8,25 +8,19 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout main branch
+      - name: Checkout the repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: sehajdeepsingh95
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Setup output branch (if missing)
-        run: |
-          git config --global user.email "sehajdeepsdsn@gmail.com"
-          git config --global user.name "sehajdeepsingh95"
-          git fetch
-          git switch --create output || git switch output
-
-      - name: Push to GitHub Pages
+      - name: Push the animation to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
