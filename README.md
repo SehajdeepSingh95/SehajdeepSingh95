@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sehajdeep Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Data+Science+Enthusiast+%7C+AI+Explorer;Lifelong+Learner+%F0%9F%93%9A;Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Web+Developer+%7C+Data+Science+Enthusiast;AI+Explorer+%7C+Machine+Learning+Learner;Lifelong+Learner+%F0%9F%93%9A+%7C+Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Student at Thapar Institute of Technology | Tech Explorer 🚀</h3>
@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **PERN Stack Projects** and exploring **AI & Data Science**
 - 🌱 Learning: **PostgreSQL, Express.js, React, Node.js, Python**, and **Machine Learning**
-- 💬 Ask me about **Web Dev, Python, SQL, Pandas**, and **learning resources**
+- 💬 Ask me about **Web Development, Python, SQL, Pandas**, and **learning resources**
 - 📫 Email: **sehajdeepsdsn@gmail.com**
 
 ---
@@ -61,10 +61,10 @@
 
 ---
 
-### 📌 Activity Graph
+### 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sehajdeepsingh95&theme=tokyonight&hide_border=false&area=true" />
+  <img src="https://github-profile-achievements.vercel.app/api/showcase?username=sehajdeepsingh95&theme=dark" alt="GitHub Achievements" />
 </p>
 
 ---
@@ -86,4 +86,3 @@
 ---
 
 <p align="center">🚀 Keep coding, stay curious, and explore fearlessly!</p>
-****
