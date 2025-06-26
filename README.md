@@ -40,7 +40,7 @@
 ### 🧰 Languages & Tools I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,typescript,react,nextjs,nodejs,postgres,django,git,pandas,sql,pytorch,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,postgres,django,git,aws,pytorch" />
 </p>
 
 ---
