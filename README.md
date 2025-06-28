@@ -73,6 +73,9 @@
   <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" title="Django">
     <img src="https://skillicons.dev/icons?i=django" alt="Django" />
   </a>
@@ -92,6 +95,7 @@
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
   </a>
 </p>
+
 
 
 
