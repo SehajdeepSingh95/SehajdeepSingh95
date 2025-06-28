@@ -51,8 +51,13 @@
   <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
+  <a href="https://numpy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</a>
+
   <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
   <a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
