@@ -39,8 +39,6 @@
 
 ### 🧰 Languages & Tools I Know
 
-### 🧰 Languages & Tools I Know
-
 <p align="center">
   <a href="https://cplusplus.com/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
