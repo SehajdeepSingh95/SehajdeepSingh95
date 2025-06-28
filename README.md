@@ -39,29 +39,60 @@
 
 ### 🧰 Languages & Tools I Know
 
-<p align="center">
-  <a href="https://cplusplus.com/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" height="40" alt="Pandas" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- Row 1 -->
+  <a href="https://cplusplus.com/" target="_blank" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy" />
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank" title="React">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
   </a>
 
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+  <!-- Row 2 -->
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 10%;" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 10%;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
 </p>
+
 
 
 ---
