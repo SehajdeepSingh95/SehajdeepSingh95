@@ -39,29 +39,22 @@
 
 ### 🧰 Languages & Tools I Know
 
-### 🧰 Languages & Tools I Know
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,postgres,django,git,aws,pytorch" />
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
 </p>
-
-<p align="center">
-  <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">C++</a> |
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a> |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">HTML</a> |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">CSS</a> |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a> |
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">TypeScript</a> |
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a> |
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">Next.js</a> |
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">Node.js</a> |
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">PostgreSQL</a> |
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">Django</a> |
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a> |
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">AWS</a> |
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>
-</p>
-
 
 ---
 
@@ -97,4 +90,4 @@
 
 ---
 
-<p align="center">🚀 Keep coding, stay curious, and explore fearlessly!</p>
+<p align="center">🚀 Keep coding, stay curious, and explore fearlessly!</p> remove that error
