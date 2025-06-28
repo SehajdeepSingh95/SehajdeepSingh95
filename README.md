@@ -39,6 +39,8 @@
 
 ### 🧰 Languages & Tools I Know
 
+### 🧰 Languages & Tools I Know
+
 <p align="center">
   <a href="https://cplusplus.com/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
@@ -51,17 +53,18 @@
   <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</a>
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" height="40" alt="Pandas" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy" />
+  </a>
 
   <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
   <a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
 </p>
+
 
 ---
 
