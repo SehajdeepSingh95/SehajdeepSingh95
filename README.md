@@ -37,7 +37,7 @@
 
 ---
 
-### 🧰 Languages & Tools I Know
+### 🧰 Languages & Tools: Known & Currently Learning
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Row 1 -->
