@@ -41,6 +41,9 @@
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Row 1 -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
   <a href="https://cplusplus.com/" target="_blank" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
@@ -95,6 +98,7 @@
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
   </a>
 </p>
+
 
 
 
