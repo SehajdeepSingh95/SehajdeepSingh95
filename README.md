@@ -97,7 +97,16 @@
   <a href="https://pytorch.org/" target="_blank" title="PyTorch">
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
   </a>
+
+  <!-- Row 3 -->
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  </a>
 </p>
+
 
 
 
