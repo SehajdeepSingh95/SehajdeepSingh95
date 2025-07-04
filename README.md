@@ -39,84 +39,77 @@
 
 ### 🧰 Languages & Tools: Known & Currently Learning
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 20px;">
-  <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C" />
+<!-- 💻 Tech Stack Showcase -->
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 30px;
+  background: #f9f9f9;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+">
+  <!-- Tech Cards -->
+  <a href="https://www.cprogramming.com/" target="_blank" title="C" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C++" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36" />
   </a>
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Python" />
+  <a href="https://www.python.org" target="_blank" title="Python" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="JavaScript" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="TypeScript" />
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Bootstrap" />
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="36" height="36" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Tailwind CSS" />
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="36" height="36" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="React" />
+  <a href="https://reactjs.org/" target="_blank" title="React" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Next.js" />
+  <a href="https://nextjs.org/" target="_blank" title="Next.js" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="36" height="36" />
   </a>
-  <a href="https://nodejs.org" target="_blank" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Node.js" />
+  <a href="https://nodejs.org" target="_blank" title="Node.js" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="36" height="36" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Django" />
+  <a href="https://www.djangoproject.com/" target="_blank" title="Django" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="36" height="36" />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Pandas" />
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="36" height="36" />
   </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="NumPy" />
+  <a href="https://numpy.org/" target="_blank" title="NumPy" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="36" height="36" />
   </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PyTorch" />
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="36" height="36" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MySQL" />
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PostgreSQL" />
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="36" height="36" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Git" />
+  <a href="https://git-scm.com/" target="_blank" title="Git" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" title="AWS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="AWS" />
+  <a href="https://aws.amazon.com" target="_blank" title="AWS" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36" />
   </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MATLAB" />
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="36" height="36" />
   </a>
 </div>
+
 
 
 
