@@ -71,9 +71,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
   </a>
 
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60" />
-  </a>
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"
+   style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;
+          background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);
+          transition:transform 0.3s ease;"
+   onmouseover="this.style.transform='scale(1.1)'"
+   onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="60" height="60" />
+</a>
+
 
   <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" />
