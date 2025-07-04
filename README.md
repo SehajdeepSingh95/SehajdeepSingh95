@@ -74,11 +74,15 @@
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"
    style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;
           background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);
-          transition:transform 0.3s ease;"
+          transition:transform 0.3s ease;flex-shrink:0;"
    onmouseover="this.style.transform='scale(1.1)'"
    onmouseout="this.style.transform='scale(1)'">
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="60" height="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"
+       alt="Bootstrap"
+       width="60" height="60"
+       style="object-fit: contain; aspect-ratio: 1/1; display: block;" />
 </a>
+
 
 
   <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
