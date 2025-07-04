@@ -39,82 +39,84 @@
 
 ### 🧰 Languages & Tools: Known & Currently Learning
 
-<p align="center">
-  <!-- Row 1: Languages -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 20px;">
   <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C++" />
   </a>
   <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="TypeScript" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Row 2: Frontend -->
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" alt="Bootstrap" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Bootstrap" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="Tailwind CSS" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Tailwind CSS" />
   </a>
   <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" alt="React" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="React" />
   </a>
   <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" alt="Next.js" />
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Next.js" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Row 3: Backend & Frameworks -->
   <a href="https://nodejs.org" target="_blank" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Node.js" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Django" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Django" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Row 4: Data Science -->
   <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" alt="Pandas" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" alt="NumPy" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="NumPy" />
   </a>
   <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" alt="PyTorch" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PyTorch" />
   </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" alt="MATLAB" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 5: Databases & Tools -->
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MySQL" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" alt="PostgreSQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PostgreSQL" />
   </a>
   <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Git" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" title="AWS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="AWS" />
   </a>
-</p>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MATLAB" />
+  </a>
+</div>
 
 
 
