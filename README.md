@@ -86,7 +86,8 @@
   </a>
 
   <a href="https://nextjs.org/" target="_blank" title="Next.js" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-   <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+       alt="Next.js" width="60" height="60">
  </a>
 
   <a href="https://nodejs.org" target="_blank" title="Node.js" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
