@@ -40,75 +40,40 @@
 ### 🧰 Languages & Tools: Known & Currently Learning
 
 <!-- 💻 Tech Stack Showcase -->
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 24px;
-  padding: 30px;
-  background: #f9f9f9;
-  border-radius: 16px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
-">
-  <!-- Card for each tech -->
-  <a href="https://www.cprogramming.com/" target="_blank" title="C" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
-  </a>
-  <a href="https://www.python.org" target="_blank" title="Python" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" title="React" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" title="Node.js" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="48" height="48" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" title="AWS" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48" />
-  </a>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 24px; padding: 30px; background: #f9f9f9; border-radius: 16px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);">
+
+  <!-- 🌐 Row 1 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;">
+    <a href="https://www.cprogramming.com/" target="_blank" title="C" style="width:64px;height:64px;..."><img src="..." width="48" height="48"/></a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://www.python.org" target="_blank" title="Python" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://getbootstrap.com" target="_blank" title="Bootstrap" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="..."><img src="..." width="48" height="48"/></a>
+  </div>
+
+  <!-- ⚛️ Row 2 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;">
+    <a href="https://reactjs.org/" target="_blank" title="React" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://nextjs.org/" target="_blank" title="Next.js" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://nodejs.org" target="_blank" title="Node.js" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" title="Django" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" title="Pandas" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://numpy.org/" target="_blank" title="NumPy" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://pytorch.org/" target="_blank" title="PyTorch" style="..."><img src="..." width="48" height="48"/></a>
+  </div>
+
+  <!-- 🧩 Row 3 (Shorter Row - Centered Automatically) -->
+  <div style="display: flex; justify-content: center; gap: 24px;">
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://git-scm.com/" target="_blank" title="Git" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://aws.amazon.com" target="_blank" title="AWS" style="..."><img src="..." width="48" height="48"/></a>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB" style="..."><img src="..." width="48" height="48"/></a>
+  </div>
 </div>
+
 
 
 
