@@ -39,73 +39,11 @@
 
 ### 🧰 Languages & Tools: Known & Currently Learning
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- Row 1 -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  </a>
-  <a href="https://cplusplus.com/" target="_blank" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  </a>
-  <a href="https://react.dev/" target="_blank" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-  </a>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  <!-- Row 2 -->
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 10%;" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 10%;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-  </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehajdeepsingh95&show_icons=true&locale=en&layout=compact" alt="sehajdeepsingh95" /></p>
 
-  <!-- Row 3 -->
-  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-  </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehajdeepsingh95&show_icons=true&locale=en" alt="sehajdeepsingh95" /></p>
 
 
 
