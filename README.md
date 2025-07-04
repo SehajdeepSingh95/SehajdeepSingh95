@@ -39,132 +39,84 @@
 
 ### 🧰 Languages & Tools: Known & Currently Learning
 
-<div class="tech-stack">
-  <h2 class="tech-stack-title">🛠️ Tech Stack</h2>
-  <div class="tech-icons">
-    <!-- Languages -->
-    <a href="https://www.cprogramming.com/" target="_blank" title="C">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" class="tech-icon"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="tech-icon"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" title="Python">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" class="tech-icon"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" class="tech-icon"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" class="tech-icon"/>
-    </a>
-    
-    <!-- Frontend -->
-    <a href="https://reactjs.org/" target="_blank" title="React">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" class="tech-icon"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" title="Next.js">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" class="tech-icon"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" class="tech-icon"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" class="tech-icon"/>
-    </a>
-    
-    <!-- Backend & DB -->
-    <a href="https://nodejs.org" target="_blank" title="Node.js">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" class="tech-icon"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" class="tech-icon"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" class="tech-icon"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" class="tech-icon"/>
-    </a>
-    
-    <!-- Data & Tools -->
-    <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" class="tech-icon"/>
-    </a>
-    <a href="https://numpy.org/" target="_blank" title="NumPy">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" class="tech-icon"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" class="tech-icon"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" title="Git">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="tech-icon"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" title="AWS">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" class="tech-icon"/>
-    </a>
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" class="tech-icon"/>
-    </a>
-  </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 20px;">
+  <a href="https://www.cprogramming.com/" target="_blank" title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C++" />
+  </a>
+  <a href="https://www.python.org" target="_blank" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="TypeScript" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Bootstrap" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Tailwind CSS" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Next.js" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Node.js" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Django" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Pandas" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="NumPy" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PyTorch" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PostgreSQL" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Git" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" title="AWS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="AWS" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MATLAB" />
+  </a>
 </div>
-
-<style>
-.tech-stack {
-  max-width: 100%;
-  margin: 1rem 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-}
-
-.tech-stack-title {
-  font-size: 1.2rem;
-  margin-bottom: 0.8rem;
-  color: #24292e;
-}
-
-.tech-icons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.tech-icon {
-  width: 32px;
-  height: 32px;
-  object-fit: contain;
-  padding: 5px;
-  background: #f6f8fa;
-  border-radius: 6px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.tech-icon:hover {
-  transform: scale(1.1);
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  background: #e1e4e8;
-}
-
-/* GitHub-like tooltip effect */
-a[title]:hover::after {
-  content: attr(title);
-  position: absolute;
-  bottom: -30px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #24292e;
-  color: #fff;
-  padding: 4px 8px;
-  border-radius: 4px;
-  font-size: 12px;
-  white-space: nowrap;
-  z-index: 100;
-}
-
-a[title] {
-  position: relative;
-  display: inline-block;
-}
-</style>
 
 
 
