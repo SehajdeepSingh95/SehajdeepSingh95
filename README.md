@@ -39,84 +39,338 @@
 
 ### 🧰 Languages & Tools: Known & Currently Learning
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 20px;">
-  <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="C++" />
-  </a>
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="TypeScript" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Bootstrap" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Tailwind CSS" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Next.js" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Node.js" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Django" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Pandas" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="NumPy" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PyTorch" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="PostgreSQL" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="Git" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" title="AWS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="AWS" />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-         width="50" height="50" style="border-radius: 8px; object-fit: cover;" alt="MATLAB" />
-  </a>
+<div class="tech-stack-container">
+  <h2 class="tech-stack-title">My Tech Stack</h2>
+  <p class="tech-stack-subtitle">Tools & Technologies I Work With</p>
+  
+  <div class="tech-stack-grid">
+    <!-- Programming Languages -->
+    <div class="tech-category">
+      <h3 class="category-title">Languages</h3>
+      <div class="tech-icons">
+        <a href="https://www.cprogramming.com/" target="_blank" class="tech-icon" title="C">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
+            <span class="icon-tooltip">C</span>
+          </div>
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" class="tech-icon" title="C++">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+            <span class="icon-tooltip">C++</span>
+          </div>
+        </a>
+        <a href="https://www.python.org" target="_blank" class="tech-icon" title="Python">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+            <span class="icon-tooltip">Python</span>
+          </div>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="tech-icon" title="JavaScript">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+            <span class="icon-tooltip">JavaScript</span>
+          </div>
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" class="tech-icon" title="TypeScript">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+            <span class="icon-tooltip">TypeScript</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <!-- Frontend -->
+    <div class="tech-category">
+      <h3 class="category-title">Frontend</h3>
+      <div class="tech-icons">
+        <a href="https://reactjs.org/" target="_blank" class="tech-icon" title="React">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/>
+            <span class="icon-tooltip">React</span>
+          </div>
+        </a>
+        <a href="https://nextjs.org/" target="_blank" class="tech-icon" title="Next.js">
+          <div class="icon-wrapper">
+            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js"/>
+            <span class="icon-tooltip">Next.js</span>
+          </div>
+        </a>
+        <a href="https://getbootstrap.com" target="_blank" class="tech-icon" title="Bootstrap">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"/>
+            <span class="icon-tooltip">Bootstrap</span>
+          </div>
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank" class="tech-icon" title="Tailwind CSS">
+          <div class="icon-wrapper">
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"/>
+            <span class="icon-tooltip">Tailwind</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <!-- Backend & Databases -->
+    <div class="tech-category">
+      <h3 class="category-title">Backend & Databases</h3>
+      <div class="tech-icons">
+        <a href="https://nodejs.org" target="_blank" class="tech-icon" title="Node.js">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
+            <span class="icon-tooltip">Node.js</span>
+          </div>
+        </a>
+        <a href="https://www.djangoproject.com/" target="_blank" class="tech-icon" title="Django">
+          <div class="icon-wrapper">
+            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"/>
+            <span class="icon-tooltip">Django</span>
+          </div>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" class="tech-icon" title="MySQL">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
+            <span class="icon-tooltip">MySQL</span>
+          </div>
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank" class="tech-icon" title="PostgreSQL">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
+            <span class="icon-tooltip">PostgreSQL</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <!-- Data Science & Other -->
+    <div class="tech-category">
+      <h3 class="category-title">Data & More</h3>
+      <div class="tech-icons">
+        <a href="https://pandas.pydata.org/" target="_blank" class="tech-icon" title="Pandas">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas"/>
+            <span class="icon-tooltip">Pandas</span>
+          </div>
+        </a>
+        <a href="https://numpy.org/" target="_blank" class="tech-icon" title="NumPy">
+          <div class="icon-wrapper">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy"/>
+            <span class="icon-tooltip">NumPy</span>
+          </div>
+        </a>
+        <a href="https://pytorch.org/" target="_blank" class="tech-icon" title="PyTorch">
+          <div class="icon-wrapper">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch"/>
+            <span class="icon-tooltip">PyTorch</span>
+          </div>
+        </a>
+        <a href="https://git-scm.com/" target="_blank" class="tech-icon" title="Git">
+          <div class="icon-wrapper">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/>
+            <span class="icon-tooltip">Git</span>
+          </div>
+        </a>
+        <a href="https://aws.amazon.com" target="_blank" class="tech-icon" title="AWS">
+          <div class="icon-wrapper">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+            <span class="icon-tooltip">AWS</span>
+          </div>
+        </a>
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank" class="tech-icon" title="MATLAB">
+          <div class="icon-wrapper">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB"/>
+            <span class="icon-tooltip">MATLAB</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
+
+<style>
+  :root {
+    --primary-color: #3a86ff;
+    --secondary-color: #8338ec;
+    --accent-color: #ff006e;
+    --dark-color: #1a1a2e;
+    --light-color: #f8f9fa;
+    --transition-speed: 0.3s;
+  }
+  
+  .tech-stack-container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tech-stack-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--dark-color);
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    position: relative;
+  }
+  
+  .tech-stack-title::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 4px;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    border-radius: 2px;
+  }
+  
+  .tech-stack-subtitle {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 2rem;
+    font-weight: 300;
+  }
+  
+  .tech-stack-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+  
+  .tech-category {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .tech-category:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  }
+  
+  .category-title {
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+    color: var(--dark-color);
+    position: relative;
+    padding-bottom: 0.5rem;
+  }
+  
+  .category-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    border-radius: 3px;
+  }
+  
+  .tech-icons {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+    gap: 1.2rem;
+  }
+  
+  .tech-icon {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .icon-wrapper {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: all var(--transition-speed) ease;
+  }
+  
+  .tech-icon:hover .icon-wrapper {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
+  }
+  
+  .tech-icon img {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+    transition: transform var(--transition-speed) ease;
+  }
+  
+  .tech-icon:hover img {
+    transform: scale(1.1);
+  }
+  
+  .icon-tooltip {
+    position: absolute;
+    bottom: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--dark-color);
+    color: white;
+    padding: 0.3rem 0.6rem;
+    border-radius: 5px;
+    font-size: 0.7rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: all var(--transition-speed) ease;
+    white-space: nowrap;
+    z-index: 10;
+  }
+  
+  .icon-tooltip::before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid var(--dark-color);
+  }
+  
+  .tech-icon:hover .icon-tooltip {
+    opacity: 1;
+    visibility: visible;
+    bottom: -35px;
+  }
+  
+  @media (max-width: 768px) {
+    .tech-stack-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .tech-icons {
+      grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+      gap: 1rem;
+    }
+    
+    .icon-wrapper {
+      width: 50px;
+      height: 50px;
+    }
+  }
+</style>
 
 
 
