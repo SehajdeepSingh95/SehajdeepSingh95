@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on **PERN Stack Projects** and exploring **AI & Data Science**
 - 🌱 Learning: **PostgreSQL, Express.js, React, Node.js, Python**, and **Machine Learning**
 - 💬 Ask me about **Web Development, Python, SQL, Pandas**, and **learning resources**
-- 📫 Email: **sehajdeepsdsn@gmail.com**
+- 📫 Email: **sehajdeepsinghsdsn@gmail.com**
 
 ---
 
