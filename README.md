@@ -81,6 +81,10 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" />
   </a>
 
+<a href="https://jquery.com" target="_blank" title="jQuery" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width="60" height="60" />
+</a>
+
   <a href="https://reactjs.org/" target="_blank" title="React" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
   </a>
