@@ -39,7 +39,6 @@
 
 ### 🧰 Languages & Tools: Known & Current Learning
 
-<!-- 💻 Tech Stack -->
 <div style="
   display: flex;
   flex-wrap: wrap;
