@@ -123,14 +123,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60" />
   </a>
 
-  <a href="https://dndkit.com/" target="_blank" title="dnd-kit"
+<a href="https://dndkit.com/" target="_blank" title="dnd-kit" 
    style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;
           background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);
-          transition:transform 0.3s ease;"
+          transition:transform 0.3s ease;" 
    onmouseover="this.style.transform='scale(1.1)'" 
    onmouseout="this.style.transform='scale(1)'">
-  <img src="https://docs.dndkit.com/_next/static/media/logo.abcdef12.svg" 
-       alt="dnd-kit" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/clauderic/dnd-kit/master/.github/logo.svg" 
+         alt="dnd-kit" width="60" height="60" />
 </a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
