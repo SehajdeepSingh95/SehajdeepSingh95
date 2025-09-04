@@ -37,7 +37,7 @@
 
 ---
 
-### 🧰 Languages & Tools: Known & Current Learning
+### 🧰 Languages & Tools: Known & Currently Learning
 
 <div style="
   display: flex;
