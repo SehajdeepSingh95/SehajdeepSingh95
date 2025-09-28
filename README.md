@@ -201,7 +201,7 @@
 </a>
 
 <a href="https://www.canva.com/" target="_blank" title="Canva" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="60" height="60" />
+  <img src="https://ok7static.oktacdn.com/fs/bco/1/fs0cmzfgpneXFVorB357" alt="Canva" width="60" height="60" />
 </a>
 
 
