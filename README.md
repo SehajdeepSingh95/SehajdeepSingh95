@@ -169,8 +169,9 @@
   </a>
   
 <a href="https://neon.tech/" target="_blank" title="NeonDB" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://neon.tech/_next/static/media/logo-light.3b8aa3bb.svg" alt="NeonDB" width="60" height="60" />
+  <img src="https://dbdb.io/db/neon/revisions/4/logo.png" alt="NeonDB Logo" width="60" height="60" />
 </a>
+
 
 
 <a href="https://redux.js.org/" target="_blank" title="Redux" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
