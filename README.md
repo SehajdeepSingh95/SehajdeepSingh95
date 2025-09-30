@@ -157,7 +157,7 @@
   </a>
 
 <a href="https://colab.research.google.com/" target="_blank" title="Google Colab" style="display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);width:80px;height:80px;text-decoration:none;">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Colaboratory_SVG_Logo.svg](https://imgs.search.brave.com/vkDoafjDT4U2qh21y5KWVeYgzUzHYgzAurpx_OAlOkw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzliL0dv/b2dsZV9Db2xhYl9w/aWMucG5nLzUxMnB4/LUdvb2dsZV9Db2xh/Yl9waWMucG5n)" alt="Google Colab" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="60" height="60">
 </a>
 
   <a href="https://www.sqlite.org/" target="_blank" title="SQLite3" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
