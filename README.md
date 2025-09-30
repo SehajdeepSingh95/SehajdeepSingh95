@@ -156,6 +156,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="60" />
   </a>
 
+  <a href="https://www.sqlite.org/" target="_blank" title="SQLite3" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite3" width="60" height="60" />
+</a>
+
+<a href="https://streamlit.io/" target="_blank" title="Streamlit" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="60" height="60" />
+</a>
+
   <a href="https://pytorch.org/" target="_blank" title="PyTorch" style="width:80px;height:80px;display:flex;align-items:center;justify-content:center;background:white;border-radius:14px;box-shadow:0 4px 12px rgba(0,0,0,0.08);transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60" />
   </a>
